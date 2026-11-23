@@ -1,41 +1,58 @@
-<h1 align="center"  style="
-  font-weight: 900;
-  font-size: 3.5rem;
-  letter-spacing: 1.2rem;
-  background: linear-gradient(90deg, #4f46e5, #3b82f6, #06b6d4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.15);
-  margin-bottom: 0.5rem;
-">
-  S I P U N</h1>
-
-
 <div align="center">
 
-I'm a passionate Full-Stack Developer who loves building scalable and efficient web and mobile applications.  <br>
-Currently focused on Java (Spring Boot) and Node.js for backend services, and Next.js / React Native for building fast, modern UIs.
+# Hi, I'm Sipun 👋
+
+### Full-Stack Developer • Backend Engineer • Builder
+
+I design and build reliable web and mobile products with **Java / Spring Boot**, **Node.js**, **TypeScript**, **Next.js**, and **React Native**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhranshu-pradhan-677bb3242/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kumarsipun_137/)
+[![GitHub followers](https://img.shields.io/github/followers/Sipun-137?style=flat-square&logo=github)](https://github.com/Sipun-137?tab=followers)
 
 </div>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## About me
 
+- Building scalable APIs, practical dashboards, and product-focused user experiences
+- Working across Java, Spring Boot, Node.js, React, Next.js, and React Native
+- Interested in clean architecture, developer tooling, and shipping useful software
+- Open to collaborating on thoughtful products and open-source projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kumarsipun_137/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhranshu-pradhan-677bb3242/) 
+## Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [DocsHub](https://github.com/Sipun-137/DocsHub) | A documentation-focused full-stack project |
+| [PaperPilot](https://github.com/Sipun-137/paperpilot) | A modern TypeScript/JavaScript application |
+| [Taskify](https://github.com/Sipun-137/taskify) | A cross-platform task management project |
+| [Portfolio](https://github.com/Sipun-137/portfolio) | My personal portfolio and online presence |
+
+## Tech I use
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Current focus
+
+```text
+Backend systems   →   Spring Boot, Node.js, APIs, PostgreSQL
+Product UI        →   React, Next.js, React Native
+Engineering       →   Clean architecture, testing, deployment
+```
+
+<div align="center">
+
+### Thanks for stopping by — explore my repositories and say hello!
+
+</div>
