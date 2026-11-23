@@ -19,14 +19,6 @@ I design and build reliable web and mobile products with **Java / Spring Boot**,
 - Interested in clean architecture, developer tooling, and shipping useful software
 - Open to collaborating on thoughtful products and open-source projects
 
-## Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [DocsHub](https://github.com/Sipun-137/DocsHub) | A documentation-focused full-stack project |
-| [PaperPilot](https://github.com/Sipun-137/paperpilot) | A modern TypeScript/JavaScript application |
-| [Taskify](https://github.com/Sipun-137/taskify) | A cross-platform task management project |
-| [Portfolio](https://github.com/Sipun-137/portfolio) | My personal portfolio and online presence |
 
 ## Tech I use
 
